@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
+
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: 'Muli', sans-serif;
+  font-family:'Muli', sans-serif ;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -19,7 +20,10 @@ body {
   width: 90vw;
 }
 
-.panel {
+
+
+
+/* .panel {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -31,4 +35,4 @@ body {
   margin: 10px;
   position: relative;
   -webkit-transition: all 700ms ease-in;
-}
+} */
